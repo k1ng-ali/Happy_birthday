@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(213, 223, 231);
+}
+
+#font {
+  font-family: 'Lobster', sans-serif;
+  font-size: 20px;
+}
+
+.jumbotron {
+  pading: 2rem 1rem;
+  background-color: rgb(213, 223, 231);
+  background-image: url(https://images.unsplash.com/photo-1537527375488-594b519cb6f9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTR8fGhhcHB5JTIwYmlydGhkYXl8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+  background-position: center;
+  background-size: cover;
+  color: rgb(250, 250, 250);
+  font-family: 'Lobster', sans-serif;
+  font-size: 20px;
+}
+
+.jumbotron img {
+  margin-top: 20px;
+}
+
+.cbl{
+  font-family: 'Lobster', sans-serif;
+  font-size: 40px;
+}
+
+footer {
+  background-color: rgb(81, 177, 180);
+}
+
